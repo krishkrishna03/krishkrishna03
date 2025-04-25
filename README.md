@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patnala-sri-krishna-sai-4531b4229/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/krishkrishna03)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=flat&logo=web)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=flat&logo=web)](https://srikrishnasai.netlify.app/)  
 
 ---
 
