@@ -1,6 +1,3 @@
-# Create a README.md content and save it to a file
-
-readme_content = """
 # 👋 Hi, I'm Patnala Sri Krishna Sai!
 
 🚀 **Software Developer | AI Researcher | Full-Stack Developer**  
@@ -118,9 +115,3 @@ readme_content = """
 ⭐ *If you like my work, don’t forget to star my repositories!* 🌟  
 """
 
-# Save the content to a README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w", encoding="utf-8") as f:
-    f.write(readme_content.strip())
-
-readme_path
