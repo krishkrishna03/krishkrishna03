@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Patnala Sri Krishna Sai!
 
 🚀 **Software Developer | AI Researcher | Full-Stack Developer**  
-📍 Ramachandrapuram, India  
+📍 Ramachandrapuram, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/patnala-sri-krishna-sai-4531b4229/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/krishkrishna03)  
@@ -38,20 +38,21 @@
 
 ## 📁 Projects  
 
-- 🎙️ **Text-to-Speech and Speech-to-Text Flask App**  
-- 😊 **Sentiment Analysis**  
-- 🏷️ **MLP Face Recognition**  
-- 🔊 **Speaker Identification**  
-- 🈸 **Language Identification**  
-- 🛡️ **RBAC Dashboard**  
-- 🏷️ **Object Detection using YOLOv5**  
-- 📡 **IoT Sensor Visualization**  
-- 🌍 **Language Translator with Hugging Face**  
-- 📝 **Text Summarization**  
-- 📦 **Voice Emotion Recognition App (Web Audio API)**  
-- 📋 **Task Manager with Local Storage**  
-- 🌦️ **Weather App using OpenWeatherMap API**  
-- 👨‍💻 **Personal Portfolio Website**  
+✨ **Exciting Projects I’m Working On**  
+- 🎙️ **[Text-to-Speech and Speech-to-Text Flask App](#)**  
+- 😊 **[Sentiment Analysis](#)**  
+- 🏷️ **[MLP Face Recognition](#)**  
+- 🔊 **[Speaker Identification](#)**  
+- 🈸 **[Language Identification](#)**  
+- 🛡️ **[RBAC Dashboard](#)**  
+- 🏷️ **[Object Detection using YOLOv5](#)**  
+- 📡 **[IoT Sensor Visualization](#)**  
+- 🌍 **[Language Translator with Hugging Face](#)**  
+- 📝 **[Text Summarization](#)**  
+- 📦 **[Voice Emotion Recognition App (Web Audio API)](#)**  
+- 📋 **[Task Manager with Local Storage](#)**  
+- 🌦️ **[Weather App using OpenWeatherMap API](#)**  
+- 👨‍💻 **[Personal Portfolio Website](#)**  
 
 ---
 
@@ -70,6 +71,7 @@
 
 ## 💼 Internships  
 
+✨ **Current Internships & Experience**  
 - 🗣️ **Speech Analytics Intern (Swecha AI)** – IIIT Hyderabad *(Aug 2024 – Present)*  
 - 🧠 **AI Research Intern** – Internship Studio *(Aug 2024 – May 2025)*  
 - 💼 **Senior Developer Intern** – RCTS, IIIT Hyderabad *(Aug 2024 – Apr 2025)*  
@@ -112,6 +114,4 @@
 
 ---
 
-⭐ *If you like my work, don’t forget to star my repositories!* 🌟  
-"""
-
+⭐ *If you like my work, don’t forget to star my repositories!* 🌟
