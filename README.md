@@ -1,7 +1,7 @@
 # 👋✨ Hi there, I'm **Patnala Sri Krishna Sai**!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=60&lines=🚀+Software+Developer;🧠+AI+Researcher;🌐+Full-Stack+Developer;👨‍💻+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Software+Developer;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -26,40 +26,40 @@
 ## 🚀 **Tech Stack**
 
 ### 💻 **Full-Stack Development**
-- **Frontend**: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+- **Frontend**: React, HTML5, CSS3, JavaScript (ES6+), TypeScript  
 - **UI Libraries**: Tailwind CSS, Bootstrap, Material-UI, Ant Design
 
 ### ⚙️ **Backend & APIs**
-- **Node.js**, **Express.js**, **Flask**, **FastAPI**, **REST APIs**, **GraphQL**, **JWT**, **OAuth**
+- Node.js, Express.js, Flask, FastAPI, REST APIs, GraphQL, JWT, OAuth
 
 ### 🗄️ **Database**
-- **MongoDB**, **Mongoose**, **SQL**
+- MongoDB, Mongoose, SQL
 
 ### 🧠 **AI & ML**
-- **Python**, **TensorFlow**, **PyTorch**, **OpenCV**, **Hugging Face**, **Scikit-learn**, **SpaCy**, **NLTK**  
+- Python, TensorFlow, PyTorch, OpenCV, Hugging Face, Scikit-learn, SpaCy, NLTK  
 - **Data Tools**: Pandas, NumPy, R, Jupyter, Google Colab
 
 ### 🛠️ **Tools & DevOps**
-- **Git**, **GitHub**, **Docker**, **Heroku**, **Vercel**, **Netlify**
+- Git, GitHub, Docker, Heroku, Vercel, Netlify
 
 ---
 
 ## ✨ **Current Projects**
 
-- 🎙️ **Text-to-Speech & Speech-to-Text Flask App**  
-- 😊 **Sentiment Analysis**  
-- 🏷️ **MLP Face Recognition**  
-- 🔊 **Speaker Identification**  
-- 🈸 **Language Identification**  
-- 🛡️ **RBAC Dashboard**  
-- 🏷️ **Object Detection with YOLOv5**  
-- 📡 **IoT Sensor Visualization**  
-- 🌍 **Language Translator (Hugging Face)**  
-- 📝 **Text Summarization**  
-- 📦 **Voice Emotion Recognition App**  
-- 📋 **Task Manager (Local Storage)**  
-- 🌦️ **Weather App (OpenWeatherMap API)**  
-- 👨‍💻 **Personal Portfolio Website**
+- 🎙️ Text-to-Speech & Speech-to-Text Flask App  
+- 😊 Sentiment Analysis  
+- 🏷️ MLP Face Recognition  
+- 🔊 Speaker Identification  
+- 🈸 Language Identification  
+- 🛡️ RBAC Dashboard  
+- 🏷️ Object Detection with YOLOv5  
+- 📡 IoT Sensor Visualization  
+- 🌍 Language Translator (Hugging Face)  
+- 📝 Text Summarization  
+- 📦 Voice Emotion Recognition App  
+- 📋 Task Manager (Local Storage)  
+- 🌦️ Weather App (OpenWeatherMap API)  
+- 👨‍💻 Personal Portfolio Website
 
 ---
 
@@ -88,11 +88,11 @@
 
 ## 🎯 **Leadership & Achievements**
 
-- 🎓 **Student Mentor** – Machine Learning at KIET  
-- ⭐ **Project Lead** – Final Year AI Project  
-- 🛠️ **Teaching Assistant** – Assisted in course delivery & coordination  
-- 🚀 **Hackathon Mentor** – Guided multiple winning teams  
-- 🎯 **SPOC** – Single Point of Contact for multiple events
+- 🎓 Student Mentor – Machine Learning at KIET  
+- ⭐ Project Lead – Final Year AI Project  
+- 🛠️ Teaching Assistant – Assisted in course delivery & coordination  
+- 🚀 Hackathon Mentor – Guided multiple winning teams  
+- 🎯 SPOC – Single Point of Contact for multiple events
 
 ---
 
@@ -111,7 +111,7 @@
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishkrishna03&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishkrishna03&theme=light&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
