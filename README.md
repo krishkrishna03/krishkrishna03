@@ -44,22 +44,26 @@
 
 ---
 
-## ✨ **Current Projects**
+## ✨ Current Projects
 
-- 🎙️ Text-to-Speech & Speech-to-Text Flask App  
-- 😊 Sentiment Analysis  
-- 🏷️ MLP Face Recognition  
-- 🔊 Speaker Identification  
-- 🈸 Language Identification  
-- 🛡️ RBAC Dashboard  
-- 🏷️ Object Detection with YOLOv5  
-- 📡 IoT Sensor Visualization  
-- 🌍 Language Translator (Hugging Face)  
-- 📝 Text Summarization  
-- 📦 Voice Emotion Recognition App  
-- 📋 Task Manager (Local Storage)  
-- 🌦️ Weather App (OpenWeatherMap API)  
-- 👨‍💻 Personal Portfolio Website
+| Project | Description | Link |
+| --- | --- | --- |
+| 🎙️ **Text-to-Speech & Speech-to-Text Flask App** | Converts speech to text and vice versa using Flask and AI models. | – |
+| 😊 **Sentiment Analysis** | Classifies text sentiment using NLP. | [Live Demo](https://electronix-ai-assignment-98aa.vercel.app/) |
+| 🏷️ **MLP Face Recognition** | Face recognition using Multi-Layer Perceptrons and OpenCV. | – |
+| 🔊 **Speaker Identification** | Identifies speaker from voice samples. | – |
+| 🈸 **Language Identification** | Detects language from input text or speech. | – |
+| 🛡️ **RBAC Dashboard** | Role-based access control dashboard for user management. | – |
+| 🏷️ **Object Detection with YOLOv5** | Real-time object detection using YOLOv5 models. | – |
+| 📡 **IoT Sensor Visualization** | Displays live IoT sensor data in interactive charts. | – |
+| 🌍 **Language Translator (Hugging Face)** | Translates text between languages using Hugging Face Transformers. | – |
+| 📝 **Text Summarization** | Summarizes input text using NLP models. | – |
+| 📦 **Voice Emotion Recognition App** | Detects emotions from voice inputs. | – |
+| 📋 **Task Manager (Local Storage)** | CRUD task manager app storing data locally in browser. | – |
+| 🌦️ **Weather App (OpenWeatherMap API)** | Shows current weather based on user location or input city. | – |
+| 👨‍💻 **Personal Portfolio** | Portfolio showcasing projects, skills, and certifications. | – |
+
+
 
 ---
 
