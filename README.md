@@ -59,8 +59,8 @@
 | 🌍 **Language Translator (Hugging Face)** | Translates text between languages using Hugging Face Transformers. | – |
 | 📝 **Text Summarization** | Summarizes input text using NLP models. | – |
 | 📦 **Voice Emotion Recognition App** | Detects emotions from voice inputs. | – |
-| 📋 **Task Manager (Local Storage)** | CRUD task manager app storing data locally in browser. | – |
-| 🌦️ **Weather App (OpenWeatherMap API)** | Shows current weather based on user location or input city. | – |
+| 📋 **Task Manager (Local Storage)** | CRUD task manager app storing data locally in browser. | [Live Demo](https://taskmangerk.netlify.app/) |
+| 🌦️ **Weather App (OpenWeatherMap API)** | Shows current weather based on user location or input city. | [Live Demo](https://tempcast.netlify.app/) |
 | 👨‍💻 **Personal Portfolio** | Portfolio showcasing projects, skills, and certifications. | [Live Demo](https://srikrishnasai.netlify.app/) |
 
 
