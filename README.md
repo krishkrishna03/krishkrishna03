@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | 🎙️ **Text-to-Speech & Speech-to-Text Flask App** | Converts speech to text and vice versa using Flask and AI models. | – |
 | 😊 **Sentiment Analysis** | Classifies text sentiment using NLP. | [Live Demo](https://electronix-ai-assignment-98aa.vercel.app/) |
-| 🏷️ **MLP Face Recognition** | Face recognition using Multi-Layer Perceptrons and OpenCV. | – |
+| 🏷️ **MLP Face Recognition** | Face recognition using Multi-Layer Perceptrons and OpenCV. | [Live Demo](https://sentimindk.netlify.app/) |
 | 🔊 **Speaker Identification** | Identifies speaker from voice samples. | – |
 | 🈸 **Language Identification** | Detects language from input text or speech. | – |
 | 🛡️ **RBAC Dashboard** | Role-based access control dashboard for user management. | – |
@@ -61,7 +61,7 @@
 | 📦 **Voice Emotion Recognition App** | Detects emotions from voice inputs. | – |
 | 📋 **Task Manager (Local Storage)** | CRUD task manager app storing data locally in browser. | – |
 | 🌦️ **Weather App (OpenWeatherMap API)** | Shows current weather based on user location or input city. | – |
-| 👨‍💻 **Personal Portfolio** | Portfolio showcasing projects, skills, and certifications. | – |
+| 👨‍💻 **Personal Portfolio** | Portfolio showcasing projects, skills, and certifications. | [Live Demo](https://srikrishnasai.netlify.app/) |
 
 
 
