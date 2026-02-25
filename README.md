@@ -68,7 +68,6 @@ Git · GitHub · Docker · Heroku · Vercel · Netlify · AWS · Google Cloud
 | 🔊 **Speaker Identification** | Identifies unique speakers from voice samples. | – |
 | 🈸 **Language Identifier** | Detects the input language using NLP. | – |
 | 🛡️ **RBAC Dashboard** | Role-based access management system. | – |
-| 🏷️ **YOLOv5 Object Detection** | Real-time object detection using YOLOv5. | – |
 | 📡 **IoT Data Visualization** | Live IoT data chart dashboard. | – |
 | 🌍 **AI Language Translator** | Translates text using Hugging Face Transformers. | – |
 | 📝 **Text Summarization** | AI-powered text summarizer with Flask backend. | – |
